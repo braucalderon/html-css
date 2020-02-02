@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Box Model Marging & Padding</title>
+    <style>
+        /* CSS Reset */
+        /*  * select everything */
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        .box {
+            background: lightgray;
+            border: 2px black solid;
+            width: 500px;
+            /* Padding on all sides */
+            padding: 20px;
+
+            /* Padding per side */
+            /* it will overrride padding: 20pix */
+            padding-top: 10px;
+            padding-right:  20px;
+            padding-bottom: 10px;
+            padding-left: 20px;
+
+            /* Padding shorthand = top, right, bottom, left */
+            padding: 10px 20px 10px 20px;
+
+            /* Padding shorthand = top/bottom left/right */
+            padding: 10px 20px;
+
+            /* Margin on all sides */
+            /* Marging shorhand works the same as padding above */
+            margin: 20px;
+
+        }
+        .box h3 {
+            padding-bottom: 10px;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="box">
+    <h3>Box One</h3>
+        <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+            Sapiente corporis perspiciatis repellat maxime maiores! Voluptatibus, vitae? 
+            Odit, quod! Enim expedita, voluptatem dignissimos dicta sequi obcaecati?
+        </p>
+    </div><br>
+    <div class="box">
+        <h3>Box One</h3>
+        <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+            Sapiente corporis perspiciatis repellat maxime maiores! Voluptatibus, vitae? 
+            Odit, quod! Enim expedita, voluptatem dignissimos dicta sequi obcaecati?
+        </p>
+    </div>
+</body>
+</html>
