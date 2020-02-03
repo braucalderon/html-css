@@ -21,7 +21,7 @@ Learned from the core basics to the latest features such as flex grid, animation
   
  ##
  
- ### ` <center> Responsive </center> `  
+ ###  <center>   ` Responsive `  </center>
 
  
  
