@@ -28,7 +28,15 @@ Learned from the core basics to the latest features such as flex grid, animation
   <li>Sticky Menus, Overlays, Form Styling, Landing Pages</li> <br>
   <li>Saas CSS Pre-compiler</li> <br>
   </ul>
-  
+ 
+ 
+ ##
+ 
+ ### `Challenges`
+
+<ul><li>The implemenation of flexbox with background images and text</li> <br>
+  <li>Making the website responsive to any size</li>
+</ul> <br>
  
   
  ---
