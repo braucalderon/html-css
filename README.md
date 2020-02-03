@@ -10,14 +10,12 @@ Learned from the core basics to the latest features such as flex grid, animation
 
 
 ### `HTML 5`
-<ul>
-<li>Non-semantics elements</li> <br>
-  <li>New semantics elements</li> <br>
-  <ul>
-  <li><header> </li> <br>
-  </ul>
+
+<ul><li>Non-semantics elements</li> <br>
+  <li>New semantics elements</li>
+</ul> <br>
  
-  </ul>
+
  
 ##
 
@@ -35,7 +33,7 @@ Learned from the core basics to the latest features such as flex grid, animation
   
  ---
   
-  <h2>Hotel website project implementing CSS fundamentals and HTML 5</h2>
+  <h3>Hotel website project implementing CSS fundamentals and new semantic elements</h3>
   
   
 
