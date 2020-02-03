@@ -25,8 +25,6 @@ Learned from the core basics to the latest features such as flex grid, animation
   
   <h1>Responsive Design</h1>  
   
- 
- ##
 
  
  
