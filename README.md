@@ -25,9 +25,13 @@ Learned from the core basics to the latest features such as flex grid, animation
  <br>
  ##
  
+ <br>
  ![](hotel_2.gif)
  <br>
+ 
  ##
+ 
+ <br>
  <br>
  ![](hotel_3.gif)
  
