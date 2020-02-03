@@ -20,6 +20,9 @@ Learned from the core basics to the latest features such as flex grid, animation
   </ul>
   
  ##
+ ### `Responsive`  
+ 
+ 
  
  ![](hotel_1.gif)
  <br>
