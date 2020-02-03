@@ -21,18 +21,16 @@ Learned from the core basics to the latest features such as flex grid, animation
   
  
   
- ##
+ ---
   
-  <h1>Responsive Design <br></h1>  
+  <h1>Responsive Design </h1>  
   
 
  
- 
- 
  ![](hotel_1.gif)
  <br>
- ##
  
+ ##
  
  ![](hotel_2.gif)
  <br>
