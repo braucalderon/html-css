@@ -23,7 +23,7 @@ Learned from the core basics to the latest features such as flex grid, animation
   
  ---
   
-  <h1>Web-site responsiveness implementing CSS fundamentals and HTML 5 </h1>  
+  <h2>Web-site responsiveness implementing CSS fundamentals and HTML 5 </h2>  
   
 
  
