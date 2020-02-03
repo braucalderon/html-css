@@ -9,6 +9,16 @@ Learned from the core basics to the latest features such as flex grid, animation
 ##
 
 
+### `HTML 5`
+<ul>
+<li>Non-semantics elements</li> <br>
+  <li>New semantics elements</li> <br>
+  <li></li> <br>
+ 
+  </ul>
+ 
+##
+
 ### `CSS Fundamentals`
 <ul>
 <li>CSS Variables, Transform, Pseudo Selector</li> <br>
