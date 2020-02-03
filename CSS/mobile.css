@@ -1,0 +1,129 @@
+#navbar .logo{
+    float: none;
+    text-align: center;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+
+}
+/* Index showcase */
+#showcase .showcase-content h1{
+    font-size: 40px;
+}
+#showcase .showcase-content{
+    padding: 60px;
+}
+#showcase .showcase-content p{
+    padding: 10px;
+    text-align: justify;
+}
+
+/* Index Home Info */
+#home-info{
+    height: 550px;
+
+}
+#home-info .info-img{
+    display: none;
+}
+
+#home-info .info-content h2{
+    line-height: 30px;
+}
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+/* Index Boxes */
+.box {
+    /* this will box them on top of each other */
+    float: none;
+    width: 100%;
+}
+
+/* About */
+#about-info .info-right,
+#about-info .info-left{
+    float: none;
+    width: 100%;
+}
+
+#about-info {
+    height: 100%;
+    
+}
+#about-info .container{
+    margin-top: -50px;
+}
+
+#about-info h1{
+    line-height: 45px;
+}
+
+/* testimonials */
+#testimonials{
+    height: 150%;
+    margin-bottom: -40px;
+}
+
+#testimonials .container{
+    /* margin-bottom: none; */
+    padding-bottom: 20px;
+  
+   
+    
+}
+
+#testimonials h2 {
+    line-height: 40px;
+    padding: 10px;
+}
+#testimonials .testimonial {
+    background: #f7c08a;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    width: 80%;
+    margin-left: 40px;
+    margin-right: 60px;
+    opacity: 0.9;
+    
+
+}
+#testimonials .testimonial p{
+    text-align: justify;
+    padding-bottom: 5px;
+    padding-top: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+/* Contact */
+#contact-form .contact-img {
+    display: none;
+}
+#contact-info .box {
+    background: gray;
+    margin-top: 1%;
+}
+#contact-form .container {
+    width: 100%;
+    text-align: center;
+    
+}
+#contact-form {
+    height: 700px;
+}
