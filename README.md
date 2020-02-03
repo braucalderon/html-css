@@ -33,7 +33,7 @@ Learned from the core basics to the latest features such as flex grid, animation
   
  ---
   
-  <h3>Hotel website project implementing CSS fundamentals and new semantic elements</h3>
+  <h2>Hotel website project implementing CSS fundamentals and new semantic elements</h2>
   
   
 
