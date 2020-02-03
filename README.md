@@ -19,14 +19,15 @@ Learned from the core basics to the latest features such as flex grid, animation
   <li>Saas CSS Pre-compiler</li> <br>
   </ul>
   
- <center> 
+ 
   
  ##
- 
- ###    `Responsive Design`  
+  <center>
+  <h1>Responsive Design</h1>  
+  </center>
  
  ##
-</center>
+
  
  
  
