@@ -22,9 +22,9 @@ Learned from the core basics to the latest features such as flex grid, animation
  
   
  ##
-  <center>
+  <p align='center'>
   <h1>Responsive Design</h1>  
-  </center>
+  </p>
  
  ##
 
