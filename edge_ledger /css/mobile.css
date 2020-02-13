@@ -1,0 +1,56 @@
+/* navbar */
+
+#navbar .text-primary{
+    display: flex;
+    flex-direction: column;
+}
+#navbar ul li a {
+    padding-right: 0.5rem;
+}
+
+ 
+/* what */
+#what h2{
+    font-size: 49px;
+}
+#what .items .item{
+    display: flex;
+    flex-direction: column;
+}
+
+#what .container{
+    padding: 0;
+    margin: 0;
+}
+
+#what .items .item_1{
+   width: 30vh;
+   padding-left: 0;
+   padding-right: 4rem;
+}
+
+#what .items .item_1 p{
+    width: 30vh;
+    
+}
+
+#who h2{
+    font-size: 49px;
+}
+
+/* clients */
+
+#clients h2{
+    font-size: 49px;
+   
+}
+#contact h2 {
+    font-size: 49px;
+}
+
+#contact .form-btn input{
+    width: 40%;
+}
+#contact .map{}
+
+
