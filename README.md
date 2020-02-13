@@ -1,4 +1,4 @@
-## Comprehensive course on HTML, CSS & UI
+# Comprehensive course on HTML, CSS & UI
 
 Learned from the core basics to the latest features such as flex grid, animation, variables.
 
