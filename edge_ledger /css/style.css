@@ -1,0 +1,307 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime|Roboto&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.4;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin: 0.75rem 0;
+}
+
+  
+
+/* Utility Classes */
+.text-primary{
+    color: #93cb52;
+}
+
+.l-heading {
+    font-size:  4rem;
+    margin-bottom: .75rem;
+    line-height: 1.1;
+}
+.m-heading {
+    font-size: 4rem;
+    margin-bottom: 0.75rem;
+    line-height: 1.1;
+}
+.lead {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+
+}
+.py-1 {
+    padding: 1.5rem 0;
+}
+.py-2 {
+    padding: 2rem 0;
+}
+.py-3 {
+    padding: 3rem 0;
+}
+.p-1 {
+    padding: 1.5rem;
+}
+.p-2 {
+    padding: 2rem;
+}
+.p-3 {
+    padding: 3rem;
+}
+
+.btn{
+    display: inline-block;
+    color: #fff;
+    background: #93cb52;
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    border: none;
+
+}
+.text-center{
+    text-align: center;
+}
+.text-justtify {
+    text-align: justify;
+}
+
+.margin-bottom {
+    margin-bottom: 1rem;
+}
+
+.btn:hover {
+    background: #7ab436;
+    font-size: 20px;
+}
+
+.btn-dark {
+    background: #333;
+    color: #fff;
+}
+.bg-light {
+    background: #f4f4f4;
+    color: #333;
+}
+.bg-dark {
+    background: #333;
+    color: #fff;
+}
+.bg-primary {
+    background: #93cb52;
+    color: #fff;
+}
+
+/* .container {
+    max-width: 1100px;
+    margin: auto;
+    padding: 0 2rem;
+    overflow: hidden;
+} */
+
+/* Navbar */
+#navbar {
+    background: #333;
+    color: #fff;
+    position: sticky;
+    /* top: 0; it will stick to the top */
+    top: 0;
+    display: flex;
+    /* it gets push to the side */
+    justify-content: space-between;
+    z-index: 1;
+    padding: 1rem;
+}
+
+#navbar ul{
+    display: flex;
+    /* it make the logo and the items on the horizontal postion */
+    align-items: center;
+    list-style: none;
+
+}
+
+#navbar ul li a {
+    color: #fff;
+    padding: 0.75rem;
+    margin: 0 0.25rem;
+}
+
+#navbar ul li a:hover {
+    background: #93cb52;
+    border-radius: .4rem;
+    padding: 1rem 1.4rem;
+}
+
+/* Showcase */
+#showcase {
+    background: #333 url('../img/showcase-city.jpg')
+    no-repeat center center/cover;
+    height: 100vh;
+    color: #fff;
+}
+
+#showcase .showcase-content{
+    display:  flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* it needs a height to get it centered */
+    height: 100%;
+    padding: 0 2rem;
+    /* Overlay */
+    position: absolute;
+    top: 65px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.4);
+}
+
+/* Section: What we do */
+
+#what .items {
+    display: flex;
+    text-align: center;
+    padding: 1rem;
+}
+#what .items .item i{
+    background: #93cb52; 
+    padding: 1rem;
+    border-radius: 1.9rem;
+    margin-bottom: 1rem;
+}
+
+/* Section: Who We Are */
+#who {
+    display: flex;
+}
+#who div {
+    flex: 1;
+}
+#who .who-img {
+    background: url('../img/who_we_are.jpg') no-repeat
+    center center/cover;
+}
+#who h3{
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: .7rem;
+}
+#who .list {
+    padding-left: 1rem 0;
+    line-height: 2rem;
+    list-style: none;
+    
+    
+}
+#who .list li{
+    border-bottom: #444 dotted 1px;
+}
+
+/* Clients */
+#clients{
+    background: #444;
+}
+#clients .items {
+    display: flex;
+}
+
+/* center the items display:block margin: auto */
+#clients .items img {
+    display: block;
+    margin: auto;
+    margin-bottom: 5rem;
+}
+#clients .img-1{
+    border-radius: 19rem;
+    width: 50%;
+}
+#clients .img-2{
+    border-radius: 29rem;
+    width: 55%;
+    
+}
+#clients .img-3{
+    border-radius: 19rem;
+    width: 50%;
+}
+#clients .img-4{
+    border-radius: 19rem;
+    width: 47%;
+}
+
+/* Section: Contact */
+#contact {
+    display: flex;
+    
+}
+
+#contact .map, #contact .contact-form {
+    flex: 1;
+    padding-bottom: 5rem;
+}
+#contact .contact-form .form-group {
+    margin: 0.75rem;
+
+}
+#contact p {
+    font-size: 20px;
+    padding-left: .8rem;
+}
+
+#contact .contact-form label {
+    display: block;
+    
+}
+#contact .contact-form p{
+    border-bottom: white dotted 1px;
+}
+#contact .contact-form h2{
+    text-align: center;
+}
+#contact .content-primary{
+    color: black;
+}
+
+#contact .form-group input {
+    width: 95%;
+    height: 30px;
+    
+}
+#contact .form-group textarea{
+    width: 95%;
+    height: 80px;
+}
+#contact .form-btn input{
+    margin-left: 1rem;
+    width: 30%;
+    height: 40px;
+    font-size: 20px;
+}
+#contact .form-btn:hover input {
+    background: grey;
+    font-size: 25px;
+    height: 50px;
+    cursor: pointer;
+
+}
+
+/* Footer */
+#main-footer {
+    background: #444;
+    padding: 1rem 0;
+    text-align: center;
+    color: white;
+}

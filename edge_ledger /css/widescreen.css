@@ -1,0 +1,46 @@
+/* Align ison to left */
+
+#what .items {
+    display: block;
+    padding: 2rem 2rem;
+    margin: 1rem 6rem;
+    
+}
+#what .items .item{
+    display: flex;
+    text-align: left;
+    
+}
+
+#what .items .item i {
+    margin-right: 1rem;
+    align-self: center;
+    margin-bottom: 0;
+}
+
+#who {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#contact{
+    display: flex;
+    flex-direction: column;
+    height: 250vh;
+    
+}
+
+
+#contact .contact-form{
+   margin-bottom: -10%;
+    
+}
+
+#clients h2{
+   margin-top: 2rem;
+}
+
+
+
+
