@@ -35,7 +35,7 @@ Learned from the core basics to the latest features such as flex grid, animation
  ### `Challenges`
 
 <ul><li>The implemenation of flexbox with background images and text</li> <br>
-  <li>Making the website responsive to any size</li>
+  <li>Making the website responsive to any size</li><br>
   <li>The implementation of the flex property are in ledge_edge folder</li>
 </ul> <br>
  
