@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Link from 'next/link';\nexport default f;","map":{"version":3,"sources":["/Users/braucald/Desktop/TKH/styling/pages/index.js"],"names":["Link","f"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,WAAjB;AAGA,eAAeC,CAAf","sourcesContent":["import Link from 'next/link';\n\n\nexport default f"]},"metadata":{},"sourceType":"module"}

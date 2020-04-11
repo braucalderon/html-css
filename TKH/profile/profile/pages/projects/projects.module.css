@@ -1,0 +1,10 @@
+
+.general{
+    /* drops items once it reaches the end */
+    display: flex;
+    flex-direction: column;
+    position: sticky;
+    align-items: center;
+}
+
+

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Link from 'next/link';\nexport default fun;","map":{"version":3,"sources":["/Users/braucald/Desktop/TKH/styling/pages/index.js"],"names":["Link","fun"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,WAAjB;AAGA,eAAeC,GAAf","sourcesContent":["import Link from 'next/link';\n\n\nexport default fun"]},"metadata":{},"sourceType":"module"}

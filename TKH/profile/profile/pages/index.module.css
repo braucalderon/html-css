@@ -1,0 +1,165 @@
+/* home page style */
+
+.home_page{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.linkup:hover{
+    padding: 1.5rem;
+    cursor: pointer;
+    font-size: 2.8rem;
+    color: white; 
+    opacity: .8;
+}
+
+
+
+.h1::before{
+    content: ' ';
+    font-size: 200%;
+    animation: animate 17s infinite;
+}
+@keyframes animate{
+    0%{
+        font-size: 200%;
+        opacity: 0;
+    }
+    10%{
+        font-size: 310%;
+        opacity: 1;
+        color: rgb(255, 208, 80);
+        content: 'Braulio Calderon';
+        
+    }
+  
+    20%{
+        font-size: 200%;
+        opacity: 0;
+        
+    }
+    30%{
+        font-size: 200%;
+        opacity: 0;
+    }
+    40%{
+        font-size: 310%;
+        opacity: 1;
+        color: rgb(14, 52, 122);
+        content: 'Lehman College';
+        
+    }
+    50%{
+        font-size: 200%;
+        opacity: 0;
+        
+    }
+    
+    70%{
+        font-size: 310%;
+        opacity: 1;
+        color: rgb(93, 16, 112);
+        content:'Click on the title to enter' ;
+    }
+    75%{
+        font-size: 280%;
+        opacity: 1;
+    }
+    80%{
+        font-size: 200%;
+        opacity: 0;
+        
+    }
+    90%{
+        font-size: 200%;
+        opacity: 0;
+    }
+    100%{
+        font-size: 200%;
+        opacity: 0;
+    }
+}
+/* mobile screen */
+@media (max-width: 750px) {
+    .h1::before{
+        content: ' ';
+        animation: animate 13s infinite;
+    }
+    @keyframes animate{
+        0%{
+            font-size: 200%;
+            opacity: 0;
+        }
+        10%{
+            font-size: 255%;
+            opacity: 1;
+            color: rgb(255, 208, 80);
+            content: 'Braulio Calderon';
+            
+        }
+      
+        20%{
+            font-size: 200%;
+            opacity: .1;
+            
+        }
+        30%{
+            font-size: 200%;
+            opacity: 0;
+        }
+        40%{
+            font-size: 280%;
+            opacity: 1;
+            color: rgb(14, 52, 122);
+            content: 'Lehman College';
+            
+        }
+        50%{
+            font-size: 200%;
+            opacity: .1;
+            
+        }
+        60%{
+            font-size: 200%;
+            opacity: 0;
+        }
+        
+        
+        75%{
+            font-size: 225%;
+            opacity: 1;
+            color: rgb(93, 16, 112);
+            content:'Click on the title to enter';
+            
+           
+        }
+        80%{
+            font-size: 200%;
+            opacity: 1;
+             
+        }
+        85%{
+            font-size: 190%;
+            opacity: .4;
+        }
+
+        90%{
+            font-size: 190%;
+            opacity: .1;
+        }
+        100%{
+            font-size: 190%;
+            opacity: 0;
+        }
+    }
+    .linkup:hover{
+        font-size: 2rem;
+    }
+}
+
+/* widescreen */

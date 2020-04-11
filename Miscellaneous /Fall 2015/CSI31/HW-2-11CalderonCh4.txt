@@ -1,0 +1,16 @@
+Ch 4. Question 11
+
+Input: Mouse clicks 4 in total
+
+Output: Draw a house with each click
+
+Pseudocode:
+	1. with the two first clicks a rectangle will be drew to start building the house 
+	
+	2. with the third click a door will be drew on the left hand side of the rectangle with space between the left side line of the rectangle and the left side line of the door, the door will touch the bottom of the rectangle, but will something close to 1/4 of space on the top of the rectangle.
+	
+	3. with the fourth click a window will be drew on the left hand top side of the rectangle with 1/5 of the width of the door. 
+	
+	4. with the fifth click roof of the house will be drew on top of the rectangle
+
+Output: A house, with a roof, door and window. 

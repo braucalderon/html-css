@@ -1,0 +1,20 @@
+Ch. 6 Question 4
+
+Input: 
+	Have the user to put any number 
+
+Output:
+	add the number from 0 to the number added from the user 
+
+Pseudocode:
+	1. Ask the user to enter a number 
+	2. eval the input on the desire number 
+	3. define a variable, in this case sum 
+	4. have the number go thru a for loop function.
+	5. add the value of 1 to the loop function if needed 
+	6. use the sum build in function in the function 
+	7. have the sum build in function to add each number for a total sum of the number 	entered 
+		for example: 3 number entered, 1+2=3 - 3+3=6 
+	8. have to print out  a small statement stating a desire phrase to the user, and
+	the total at the end of the phrase. 
+

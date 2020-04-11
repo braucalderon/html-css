@@ -1,0 +1,29 @@
+A) Specification of Future Value Problem (is a what)
+
+Input:
+	User prompted for principal and interest rate
+
+Output:
+	Bar graph giving the value of the investment each year for 10 years, where we compound interest annually.
+
+
+B) Pseudo code (Design) of future value problem
+
+1.Print out introduction 
+2.Get “principle” input from user
+3.Get “interest rate” input from user
+Open Graph window and draw:
+	[Draw Axes with Year along horizontal and dollar on vertical]
+		steps of size 1
+	Along vertical write “Total” and go from 0 to 10,000
+	steps of 2,500
+4.Current_investment = principal 
+Current_year = 0
+5.Repeat 11 times (comment-fort time is for principal):
+	[Draw a bar as follows]:
+		Heigh: current_inv
+		Base: Draw at position of current_year	
+	current_inv = current_inv + current_inv * interest
+	
+	current_year increase by 1
+6.Output current_inv

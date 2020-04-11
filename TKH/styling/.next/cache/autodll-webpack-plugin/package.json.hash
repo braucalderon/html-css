@@ -1,0 +1,1 @@
+{"name":"styling","version":"1.0.0","main":"index.js","scripts":{"dev":"next","build":"next build","start":"next start"},"keywords":[],"author":"","license":"ISC","dependencies":{"next":"^9.2.1","node-sass":"^4.13.1","react":"^16.12.0","react-dom":"^16.12.0"},"devDependencies":{},"description":"","readme":"ERROR: No README data found!","_id":"styling@1.0.0"}

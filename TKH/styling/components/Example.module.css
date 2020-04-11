@@ -1,0 +1,87 @@
+
+/* Reset */
+
+
+/* Utilities */
+
+
+/* index: navbar */
+
+.headerContainer2 {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    /* padding: 1rem; */
+}
+
+.headerContainer1{
+    background: black;
+    padding: 2rem;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content:flex-end;
+   
+    
+}
+
+/* index: showcase */
+
+.links {
+    text-decoration: none;
+    background: black;
+    padding: 1rem;
+    border-radius: .9rem;
+    color: white;
+
+}
+
+.showcase{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.contact_link{
+    padding: 4rem;
+    margin-top: 2rem;
+    text-decoration: none;
+    color: white;
+    
+
+}
+.links:hover{
+    font-size: 20px;
+    color: blanchedalmond;
+
+}
+.text_justify{
+    text-align: justify;
+}
+
+
+
+/* index: showcaseFooter */
+
+.showcaseFooter{
+    height: 100%;
+    align-self: flex-end;
+}
+
+.footerContainer{
+    background: black;
+    padding: .5rem;
+    
+}
+.footerContainer1{
+    color: white;
+    text-align: center;
+}
+
+/* Form.js */
+
+
+
+
+
+

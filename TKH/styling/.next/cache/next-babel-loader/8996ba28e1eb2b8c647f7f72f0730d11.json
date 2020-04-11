@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React, { useState } from 'reac';","map":{"version":3,"sources":["/Users/braucald/Desktop/TKH/styling/pages/Form.js"],"names":["React","useState"],"mappings":"AAAA,OAAOA,KAAP,IAAeC,QAAf,QAA8B,MAA9B","sourcesContent":["import React, {useState} from 'reac'"]},"metadata":{},"sourceType":"module"}

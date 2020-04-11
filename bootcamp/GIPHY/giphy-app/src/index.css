@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime|Roboto&display=swap');
+
+/* Reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+  background: #0C0C3F;
+
+}
+
+
+.container .header .header-search{
+  background: #050519;
+  color: white;
+  position: sticky;
+  top:0;
+  display: flex;
+  padding: 2rem;
+
+  /* justify-content: space-between; */
+}
+.container .header-text{
+  margin-left: 1rem;
+  border-style: inset;
+  border-radius: .20rem;
+}
+
+.container .submit-search{
+  margin-left: 1rem;
+  border-style: outset;
+  border-radius: .30rem;
+  padding: 0 .80rem;
+  padding-top: .20rem;
+  padding-bottom: .20rem;
+}
+
+
+.container-image{
+  background: white;
+  border-style: inset;
+  text-align: center;
+  padding-top: .20rem;
+  margin: 1.4rem 14rem;
+}
+
+.image{
+  margin-top: .20rem;
+  justify-content: center;
+}
+.image-title{
+  color: #19197F;
+}
+

@@ -1,0 +1,72 @@
+/* Goole Fonts */
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime|Roboto&display=swap');
+
+
+/* Reset */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+/* default */
+body {
+  line-height: 1.4;
+  font-family: 'Roboto', sans-serif;
+  background:  #D8D8D8;
+  border-style: inset;
+}
+
+/* Header */
+#container-header{
+  position: sticky;
+  background: gray;
+  border-style: inset;
+  padding: 2rem;
+  top: 0;
+}
+
+#container-header #header-form{
+  display: flex;
+  justify-content: center;
+  
+}
+
+#container-header #header-text,
+#container-header #submit-header{
+  margin-left: 1rem;
+  padding: 0 .80rem;
+  border-radius: .30rem;
+  text-align: center;
+}
+
+/* container-result */
+
+#container-result ul,
+#container-result li,
+#container-result p{
+  text-align: center;
+}
+li{
+  border-style: outset;
+  padding: 0;
+  margin: 0 15rem;
+  border-radius: 2rem;
+  list-style: none;
+  background: white;
+  color: gray;
+}
+.subtitle{
+  font-size: 13px;
+
+}
+
+#title{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+
+
+
+

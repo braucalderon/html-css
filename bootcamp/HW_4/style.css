@@ -1,0 +1,45 @@
+/* Reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#container{
+    margin-top: 6rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    cursor: pointer;
+    border-style: inset;
+    padding: 1rem;
+    
+    
+    
+}
+
+.btn-box{
+    padding: 1rem 3rem;
+    
+
+}
+
+#square{
+    height: 10vh;
+    width: 10vh;
+    border-style: outset;
+    display: flex;
+    
+}
+
+#navbar{
+    background: gray;
+    position: sticky;
+    display: flex;
+    top: 0;
+    justify-content: space-between;
+    padding: 3rem ;
+    
+}

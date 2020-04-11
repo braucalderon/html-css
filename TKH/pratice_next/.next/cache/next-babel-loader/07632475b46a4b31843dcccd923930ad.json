@@ -1,0 +1,1 @@
+{"ast":null,"code":"var Index = function Index() {};","map":{"version":3,"sources":["/Users/braucald/Desktop/TKH/pratice_next/pages/index.js"],"names":["Index"],"mappings":"AAAA,IAAMA,KAAK,GAAG,SAARA,KAAQ,GAAI,CAEjB,CAFD","sourcesContent":["const Index = ()=>{\n    \n}"]},"metadata":{},"sourceType":"script"}

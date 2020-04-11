@@ -1,0 +1,145 @@
+				SOLAR SYSTEM
+
+Our Solar System has a distance of 27000 +/- 1000 ly  to the Galactic Center
+Nearest stars: Proxima Centauri 4.22 ly and Alpha Centauri 4.37 ly
+
+Known minor planets: 761642 as of 2018-04-23
+Distance to Kuiper cliff: 50 AU
+
+The Solar System has a Sun with 8 planets.
+____________________________
+THE STAR
+
+The Sun has a radius of 432169 mi with a mass of 1.989 10^30 kg 
+which is about 1.9890000000000003e+27
+and with a surface temperature of 5778 K
+
+The Volume of the Sun is: 1.4 x 10^27
+The Density of the Sun is: 1.4207142857142858e-27
+--------------------------
+Planet Mars: 
+
+The radius of the planet is 2106 mi
+The planet has a distance of 141.6 million/billion mi from the Sun,
+with a mass of 0.107 M and
+with an orbit period of 1.9 days / years.
+
+Volume of 39125843175.37984 kg
+Density of 2.7347653447461133e-12 g/cm^3
+Circumference of 13232.388256920209 million mi^2
+Surface Area of 27867409.669073958 mi
+
+The planet has 3 moon(s):
+['Deimos', 'Phobos', 'Yellow']
+
+--------------------------
+Planet Neptune: 
+
+The radius of the planet is 15299 mi
+The planet has a distance of 2794000 million/billion mi from the Sun,
+with a mass of 17.5 M and
+with an orbit period of 165 days / years.
+
+Volume of 14999533185852.393 kg
+Density of 1.1667029755636698e-12 g/cm^3
+Circumference of 96126.4520145405 million mi^2
+Surface Area of 1470638589.370455 mi
+
+The planet has 12 moon(s):
+['Triton', 'Proteus', 'Nereid', 'Larissa', 'Galatea', 'Despina', 'Thalassa', 'Naiad', 'Halimede', 'Neso', 'Sao', 'Laomedeia']
+
+--------------------------
+Planet Uranus: 
+
+The radius of the planet is 15759 mi
+The planet has a distance of 178400 million/billion mi from the Sun,
+with a mass of 14.54 M and
+with an orbit period of 84 days / years.
+
+Volume of 16393609122649.137 kg
+Density of 8.869309919017026e-13 g/cm^3
+Circumference of 99016.7172558431 million mi^2
+Surface Area of 1560404447.2348313 mi
+
+The planet has 12 moon(s):
+['Titania', 'Oberon', 'Umbriel', 'Ariel', 'Miranda', 'Sycorax', 'Puck', 'Portia', 'Juliet', 'Caliban', 'Belinda', 'Cressida']
+
+--------------------------
+Planet Saturn: 
+
+The radius of the planet is 36184 mi
+The planet has a distance of 890.7 million/billion mi from the Sun,
+with a mass of 95.16 M and
+with an orbit period of 29 days / years.
+
+Volume of 198444164984348.44 kg
+Density of 4.795303505522845e-13 g/cm^3
+Circumference of 227350.77715498614 million mi^2
+Surface Area of 8226460520.576018 mi
+
+The planet has 12 moon(s):
+['Titan', 'Rhea', 'Lapetus', 'Dione', 'Tethys', 'Enceladus', 'Mimas', 'Hyperion', 'Phoebe', 'Janus', 'Epimetheus', 'Prometheus']
+
+--------------------------
+Planet Jupiter: 
+
+The radius of the planet is 43441 mi
+The planet has a distance of 483.8 million/billion mi from the Sun,
+with a mass of 317.8 M and
+with an orbit period of 12 days / years.
+
+Volume of 343390322338431.5 kg
+Density of 9.254774503714442e-13 g/cm^3
+Circumference of 272947.8529291884 million mi^2
+Surface Area of 11857127679.096874 mi
+
+The planet has 13 moon(s):
+['Ganymede', 'Callisto', 'Io', 'Europa', 'Amakthea', 'Himalia', 'Thebe', 'Elara', 'Pasiphae', 'Metis', 'Carme', 'Sinope', 'Lysithea']
+
+--------------------------
+Planet Mercury: 
+
+The radius of the planet is 1516 mi
+The planet has a distance of 35.98 million/billion mi from the Sun,
+with a mass of 0.058 M and
+with an orbit period of 88 days / years.
+
+Volume of 14594398926.871592 kg
+Density of 3.974127354653084e-12 g/cm^3
+Circumference of 9525.308925684252 million mi^2
+Surface Area of 14440368.331337327 mi
+
+The planet has 0 moon(s):
+[]
+
+--------------------------
+Planet Venus: 
+
+The radius of the planet is 3760 mi
+The planet has a distance of 67.24 million/billion mi from the Sun,
+with a mass of 0.815 M and
+with an orbit period of 225 days / years.
+
+Volume of 222665095900.94717 kg
+Density of 3.660205461041607e-12 g/cm^3
+Circumference of 23624.776754995244 million mi^2
+Surface Area of 88829160.59878212 mi
+
+The planet has 0 moon(s):
+[]
+
+--------------------------
+Planet Earth: 
+
+The radius of the planet is 3959 mi
+The planet has a distance of 92.96 million/billion mi from the Sun,
+with a mass of 0.107 M and
+with an orbit period of 365 days / years.
+
+Volume of 259923241563.71063 kg
+Density of 4.116599937592456e-13 g/cm^3
+Circumference of 24875.130631123982 million mi^2
+Surface Area of 98480642.16861984 mi
+
+The planet has 1 moon(s):
+['Luna']

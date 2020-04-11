@@ -1,0 +1,8 @@
+Mars 2106 141.6 0.107 1.9 ['Deimos','Phobos']
+Jupiter 43441 483.8 317.8 12 ['Ganymede','Callisto','Io','Europa','Amakthea','Himalia','Thebe','Elara','Pasiphae','Metis','Carme','Sinope','Lysithea']
+Saturn 36184 890.7 95.16 29 ['Titan','Rhea','Lapetus','Dione','Tethys','Enceladus','Mimas','Hyperion','Phoebe','Janus','Epimetheus','Prometheus']
+Uranus 15759 1784000 14.54 84 ['Titania','Oberon','Umbriel','Ariel','Miranda','Sycorax','Puck','Portia','Juliet','Caliban','Belinda','Cressida']
+Neptune 15299 2793000 17.15 165 ['Triton','Proteus','Nereid','Larissa','Galatea','Despina','Thalassa','Naiad','Halimede','Neso','Sao','Laomedeia']
+Earth 3959 92.96 0.107 365 ['Luna']
+Venus 3760 67.24 0.815 225 []
+Mercury 1516 35.98 0.055 88 []
